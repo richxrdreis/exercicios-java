@@ -1,6 +1,11 @@
-# ☕ Exercícios em Java - Just for practice :)
+# ☕ Exercícios em Java
 
-Repositório com **exercícios resolvidos em Java**, voltado para prática de lógica de programação e introdução à Programação Orientada a Objetos (POO).
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/richxrdreis/exercicios-java?style=for-the-badge)](https://github.com/richxrdreis/exercicios-java)
+[![Last commit](https://img.shields.io/github/last-commit/richxrdreis/exercicios-java?style=for-the-badge)](https://github.com/richxrdreis/exercicios-java/commits)
+
+> Repositório com **exercícios resolvidos em Java**, voltado para prática de lógica de programação e introdução à Programação Orientada a Objetos (POO).
 
 Ideal para iniciantes ou para quem quer reforçar os fundamentos da linguagem!
 
