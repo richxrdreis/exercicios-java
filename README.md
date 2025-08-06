@@ -1,7 +1,6 @@
 # ☕ Exercícios em Java
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/richxrdreis/exercicios-java?style=for-the-badge)](https://github.com/richxrdreis/exercicios-java)
 [![Last commit](https://img.shields.io/github/last-commit/richxrdreis/exercicios-java?style=for-the-badge)](https://github.com/richxrdreis/exercicios-java/commits)
 
