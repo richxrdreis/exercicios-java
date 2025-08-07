@@ -1,9 +1,9 @@
-package exercicios_poo;
+package exercicios_poo.ex01;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Triangle; // aqui importamos nosso obj criado - importing our object
+import exercicios_poo.ex01.entities_ex01.Triangle;
 
 public class ex01 {
     public static void main(String[] args) {
@@ -27,11 +27,8 @@ public class ex01 {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        double p = (x.a + x.b + x.c) / 2;
-        double areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
-
-        p = (y.a + y.b + y.c) / 2;
-        double areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+        double areaX = x.area();
+        double areaY = y.area();
 
         System.out.printf("Triangle X area: %.4f%n", areaX);
         System.out.printf("Triangle X area: %.4f%n", areaY);
