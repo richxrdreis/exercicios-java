@@ -1,0 +1,26 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+
+# === Build output ===
+out/
+java_out/
+build/
+target/
+
+# === Arquivos temporários do sistema ===
+.DS_Store
+Thumbs.db
+
+# === Arquivos compilados Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Logs ===
+*.log
+
+# === Configurações locais ===
+*.env
