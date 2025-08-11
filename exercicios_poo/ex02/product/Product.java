@@ -5,10 +5,19 @@ public class Product {
     public double price;
     public int quantity;
 
+    public Product() {
+    }
+
     public Product(String name, double price, int quantity) {
         this.name = name;
         this.price = price;
         this.quantity = quantity;
+    }
+
+    public Product(String name, double price) {
+        this.name = name;
+        this.price = price;
+        // posso ate apagar o quantity aqui, na linguagem java o int sempre inicia com zero
     }
 
     public double totalValueInStock() {
