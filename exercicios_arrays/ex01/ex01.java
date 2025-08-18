@@ -1,9 +1,9 @@
-package exercicios_arrays;
+package exercicios_arrays.ex01;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class array01 {
+public class ex01 {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
