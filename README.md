@@ -16,5 +16,6 @@ Ideal para iniciantes ou para quem quer reforçar os fundamentos da linguagem!
 - [`exercicios_estrutura_condicional`](./exercicios_estrutura_condicional) – Estruturas de decisão: `if`, `else`, `switch`  
 - [`exercicios_estrutura_repetitivas`](./exercicios_estrutura_repetitivas) – Laços: `for`, `while`, `do-while`  
 - [`exercicios_poo`](./exercicios_poo) – Programação Orientada a Objetos: classes, atributos, métodos, encapsulamento
+- [`exercicios_arrays`](./exercicios_arrays) – Vetores, for, arrays
 
 ---
