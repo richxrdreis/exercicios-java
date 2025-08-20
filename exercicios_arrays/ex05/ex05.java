@@ -34,7 +34,7 @@ public class ex05 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Quantasa pessoas serao digitadas? ");
+        System.out.print("Quantas pessoas serao digitadas? ");
         int pessoas = sc.nextInt();
         sc.nextLine();
 
