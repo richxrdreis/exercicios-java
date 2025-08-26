@@ -1,7 +1,5 @@
 package exercicios_arrays.ex14;
 
-import java.sql.SQLOutput;
-import java.util.Formattable;
 import java.util.Locale;
 import java.util.Scanner;
 
